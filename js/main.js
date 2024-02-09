@@ -6,6 +6,8 @@ import { filterGenre } from "./components/filterGenre.js";
 import { changePage } from "./components/chnagePage.js";
 import { createCartFilm } from "./components/createCartFilm.js";
 import { showHeartList } from "./components/showHeartList.js";
+const genreList =  document.querySelectorAll('.nav-genre__link');
+ 
 const filmsEL = document.querySelector('.films');
 const playerWrapper = document.querySelector('.player-wrapper');
 const heartListEl = document.querySelector('.heart-list');
@@ -14,10 +16,12 @@ const heartListEl = document.querySelector('.heart-list');
 
 heartListEl && togleHeartList();
 searchFilm(films);
-filterGenre(films);
+
+
 filmsEL && createFilmsList(films);
 
-
+// Что-то не работает
+filterGenre(films);
 
 const navGenreLinksEl = document.querySelectorAll('.nav-genre__link');
 const navGenreEl = document.querySelector('.nav-genre');
@@ -34,6 +38,5 @@ navGenreLinksEl.forEach(navGenreLinksEl => {
 heartListEl && showHeartList(films)
 
 playerWrapper && createCartFilm(films)
-
 
 changePage()

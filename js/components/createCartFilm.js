@@ -9,9 +9,6 @@ export const createCartFilm = (films) => {
     return film.id === Number(idFilm);
   })
 
-
-  console.log('currentFilm', currentFilm)
-
   const cartFilmHTML = `
       <div class="player" data-id-film="${currentFilm.id}">
           <div class="player__prev" >

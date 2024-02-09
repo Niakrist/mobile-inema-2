@@ -10,6 +10,8 @@ export const filterGenre = (films) => {
       const filmsGenreList = films.filter(film => {
         return film.genre.includes(genreItem.title);
       })
+      console.log(filmsGenreList)
+      // createFilmsList(filmsGenreList);
       return filmsGenreList;
     })
   })

@@ -54,7 +54,7 @@
 }
 
 .heart-list {
-  position: fixed  ;
+  position: fixed;
   padding: 10px;
   width: 340px;
   border-radius: 10px;
@@ -115,7 +115,8 @@
 .search__input {
   padding: 5px 10px;
   background-color: transparent;
-  width: 0;    /* Скрыть / показать поиск */
+  width: 0;
+  /* Скрыть / показать поиск */
   color: #fff;
 }
 
@@ -174,6 +175,7 @@
 .nav-genre__link.active::after {
   background-color: rgba(255, 214, 69, 0.5);
 }
+
 .main-menu {
   position: sticky;
 
@@ -184,7 +186,7 @@
   width: 360px;
 
   top: 660px;
-   left: 0;
+  left: 0;
   right: 0;
   margin-left: auto;
   margin-right: auto;
@@ -311,6 +313,7 @@ svg {
   position: relative;
   height: 450px;
 }
+
 /* ///////////////////////////////////////// */
 .player__prev {
   position: relative;
@@ -500,6 +503,7 @@ svg {
 .film-tab__cast {
   color: #ffd645;
 }
+
 .film-tab__photo {
   color: #ffd645;
 }
@@ -517,7 +521,7 @@ svg {
   right: 0;
   background: linear-gradient(135deg, #151618, #222632, #ffd645);
   background-size: 200% 200%;
-  
+
   color: #dfdfdf;
   border-radius: 15px;
   width: 340px;
@@ -532,24 +536,50 @@ svg {
 .film-reserve:hover {
   -webkit-animation: Animation 5s ease;
   -moz-animation: Animation 5s ease;
-  animation: Animation 5s ease;  
+  animation: Animation 5s ease;
 }
 
 
 @-webkit-keyframes Animation {
-  0%{background-position:10% 0%}
-  100%{background-position:91% 100%}
-  100%{background-position:10% 0%}
+  0% {
+    background-position: 10% 0%
+  }
+
+  100% {
+    background-position: 91% 100%
+  }
+
+  100% {
+    background-position: 10% 0%
+  }
 }
+
 @-moz-keyframes Animation {
-  0%{background-position:10% 0%}
-  50%{background-position:91% 100%}
-  100%{background-position:10% 0%}
+  0% {
+    background-position: 10% 0%
+  }
+
+  50% {
+    background-position: 91% 100%
+  }
+
+  100% {
+    background-position: 10% 0%
+  }
 }
-@keyframes Animation { 
-  0%{background-position:10% 0%}
-  50%{background-position:91% 100%}
-  100%{background-position:10% 0%}
+
+@keyframes Animation {
+  0% {
+    background-position: 10% 0%
+  }
+
+  50% {
+    background-position: 91% 100%
+  }
+
+  100% {
+    background-position: 10% 0%
+  }
 }
 
 .cast {
@@ -602,4 +632,174 @@ iframe {
   margin: 0 auto;
   width: 380px;
   height: 214px;
+}
+
+
+
+.screen {
+  margin: 70px auto 30px;
+  width: 360px;
+}
+
+.screen__name {
+  margin-bottom: 30px;
+  display: block;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+}
+
+.hall {
+  margin: 0 auto 30px;
+  max-width: 340px;
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.hall__left,
+.hall__center,
+.hall__right {
+  width: 90px;
+}
+
+.hall__left {
+  text-align: right;
+}
+
+.left__row,
+.center__row,
+.right__row {
+  margin-bottom: 10px;
+}
+
+.hall__center {
+  text-align: center;
+}
+
+.hall__right {
+  text-align: left;
+}
+
+.bi-circle-fill {
+  fill: rgb(226, 226, 226);
+}
+
+.bi-circle-fill.reserv {
+  fill: #ffd645;
+}
+
+.bi-circle-fill.block {
+  fill: #5f5f5f;
+}
+
+.reserv-btn:disabled {
+  cursor: not-allowed;
+}
+
+.reserv-info__block svg {
+  fill: #5f5f5f;
+}
+
+.reserv-info__empty svg {
+  fill: rgb(226, 226, 226);
+}
+
+.reserv-info__reserv svg {
+  fill: #ffd645;
+}
+
+.reserv-info {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  text-align: center;
+}
+
+.reserv-info__block,
+.reserv-info__empty,
+.reserv-info__reserv {
+  flex: 0 1 90px;
+}
+
+
+
+.reserv-info__text {
+  margin-top: 10px;
+  display: block;
+  color: rgb(226, 226, 226);
+  font-size: 12px;
+}
+
+.session {
+  margin: 0 auto 50px;
+  max-width: 340px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.session__info,
+.session__select {
+  flex: 0 0 50%;
+  padding: 20px;
+  border-radius: 15px;
+  color: #e8e8e9;
+  background: linear-gradient(145deg, rgba(31, 33, 34, 1) 0%, rgba(45, 47, 51, 1) 100%);
+}
+
+
+.session__info-data,
+.session__select-title {
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.session__info-time {
+  font-size: 14px;
+}
+
+.session__select-seat {
+  font-size: 16px;
+  font-weight: 700;
+  /* white-space: nowrap;
+  overflow: auto; */
+}
+
+.buy-info {
+  max-width: 340px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+.price {
+  width: 70px;
+}
+.price__text {
+  font-size: 14px;
+  color: #e8e8e9;
+  margin-bottom: 10px;
+}
+.price__total {
+  font-size: 24px;
+  font-weight: 500;
+  color: #e8e8e9;
+}
+.buy-ticket {
+  padding: 25px;
+  border-radius: 20px;
+  width: 200px;
+  background-color: #ffd645;
+  color: #000;
+  transition: background-color 0.25s ease;
+  box-shadow: 1px 3px 40px #ffd645;
+}
+
+.buy-ticket:hover {
+  background-color: #ffce1d;
+
 }
