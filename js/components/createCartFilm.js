@@ -33,13 +33,13 @@ export const createCartFilm = (films) => {
           <iframe class="player__trailer" width="560" height="315"
           src="${currentFilm.trailer}">
         </iframe>
-
-        </div>
         <div class="player__info">
         <div class="player__info-imdb">IMDB ${currentFilm.imdb}</div>
         <div class="player__info-time">${currentFilm.time}</div>
         <div class="player__info-date">${currentFilm.date}</div>
       </div>
+        </div>
+
         <div class="film-tabs">
           <button class="film-tab active">О фильме</button>
           <button class="film-tab">Актеры</button>

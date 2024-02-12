@@ -396,6 +396,7 @@ svg {
 }
 
 .player__info {
+  z-index: 5;
   position: absolute;
   display: flex;
   gap: 30px;
@@ -724,8 +725,6 @@ iframe {
   flex: 0 1 90px;
 }
 
-
-
 .reserv-info__text {
   margin-top: 10px;
   display: block;
@@ -743,13 +742,22 @@ iframe {
 
 .session__info,
 .session__select {
-  flex: 0 0 50%;
+  /* flex: 0 0 50%; */
+  width: 170px;
+  height: 82px;
   padding: 20px;
   border-radius: 15px;
   color: #e8e8e9;
   background: linear-gradient(145deg, rgba(31, 33, 34, 1) 0%, rgba(45, 47, 51, 1) 100%);
 }
 
+.session__select {
+  overflow: auto;
+}
+
+.session__select::-webkit-scrollbar {
+  width: 0;
+}
 
 .session__info-data,
 .session__select-title {
@@ -776,24 +784,31 @@ iframe {
   justify-content: space-between;
   gap: 10px;
 }
+
 .price {
-  width: 70px;
+  /* width: 75px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
+
 .price__text {
   font-size: 14px;
   color: #e8e8e9;
-  margin-bottom: 10px;
+  margin-bottom: auto;
 }
+
 .price__total {
   font-size: 24px;
   font-weight: 500;
   color: #e8e8e9;
 }
+
 .buy-ticket {
   padding: 25px;
   border-radius: 20px;
   width: 200px;
-  background-color: #ffd645;
+  background-color: rgb(255, 214, 69);
   color: #000;
   transition: background-color 0.25s ease;
   box-shadow: 1px 3px 40px #ffd645;
@@ -801,5 +816,95 @@ iframe {
 
 .buy-ticket:hover {
   background-color: #ffce1d;
+}
 
+.popup {
+  padding: 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 214, 69, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.popup.popup-active {
+  display: flex;
+}
+
+.popup__wrapper {
+  font-weight: 500;
+  padding: 40px 30px;
+  background-color: #000;
+  border-radius: 15px;
+  color:#fff
+}
+
+
+.popup__content {
+  margin-bottom: 15px;
+  display: flex;
+}
+
+.popup__title {
+  min-width: 100px;
+}
+
+.form {
+  margin-top: 40px;
+}
+
+.form__name,
+.form__email {
+  display: block;
+  margin-bottom: 15px;
+  border: 1px solid #f0f0f0 ;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+.form__name span,
+.form__email span {
+  display: inline-block;
+  min-width: 65px;
+}
+
+.form__name input,
+.form__email input {
+  width: 150px;
+}
+
+.form__submit {
+  color: #ffd645;
+  border: 1px solid #ffd645;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: transparent;  
+  transition: color 0.25s ease, background-color 0.25s ease;
+  margin-bottom: 15px;
+}
+
+.form__submit:hover {
+  color: #000;
+  background-color: #ffd645;
+}
+
+.form__cancel {
+  color: #f0f0f0;
+  border: 1px solid #f0f0f0;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: transparent;  
+  transition: color 0.25s ease, background-color 0.25s ease;
+}
+
+.form__cancel:hover {
+  color: #000;
+  background-color: #f0f0f0;
 }

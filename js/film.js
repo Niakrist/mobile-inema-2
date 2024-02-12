@@ -1,7 +1,6 @@
 import { changeTabs } from "./components/changeTabs.js";
 import { toggleInHeart } from "./components/toggleInHeart.js";
 import { loadIndexFilm } from "./state/saveIndexFilm.js";
-import { films } from "./api/films.js";
 import { setTitleFilm } from "./components/setTitleFilm.js";
 
 const filmTabsEl = document.querySelectorAll('.film-tab');
