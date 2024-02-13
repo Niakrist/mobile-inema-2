@@ -786,10 +786,19 @@ iframe {
 }
 
 .price {
-  /* width: 75px; */
+  width: 120px;
+  height: 69px;
+  padding: 5px;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+}
+
+.price.no-info,
+.session__select.no-info{
+  /* border: 1px solid red; */
+  box-shadow: 0 2px 5px red;
 }
 
 .price__text {

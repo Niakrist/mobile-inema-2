@@ -419,26 +419,24 @@
       <div class="popup">
         <div class="popup__wrapper">
 
-          <div class="popup__content">
-            <div class="popup__title">Места:</div>
-            <div class="popup__value">A1, B2, A1, B2, A1, B2, A1, B2, A1, B2, A1, B2, A1, B2, </div>
-          </div>
-          <div class="popup__content">
-            <div class="popup__title">Цена:</div>
-            <div class="popup__value">10</div>
-          </div>
 
-          <form class="form">
-            <label class="form__name"><span>Имя: </span><input type="text" name="name"></label>
-            <label class="form__email"><span>E-mail: </span><input type="email" name="email"></label>
+          <form action="https://jsonplaceholder.typicode.com/posts" method="post"> 
+            <div class="popup__content">
+              <div class="popup__title">Места:</div>
+              <input class="popup__seat-value" name="seats" />
+            </div>
+            <div class="popup__content">
+              <div class="popup__title">Цена:</div>
+              <input class="popup__seat-price" name="totalPrice"></input>
+            </div>
+            <label class="form__name"><span>Имя: </span><input type="text" required name="name"></label>
+            <label class="form__email"><span>E-mail: </span><input type="email" required name="email"></label>
             <input class="form__submit" type="submit">
           </form>
           <button class="form__cancel">Отменить</button>
-
         </div>
       </div>
     </div>
-
   </div>
 
 </body>
