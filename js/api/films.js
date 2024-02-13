@@ -67,7 +67,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/6a173bc4-e7d9-4952-a520-bdad1ae4eb6e/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/b636b39b-4917-479b-a030-9e971cc66811/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=FDf8KJbJ0pA"
   },
   {
     id: 3,
@@ -111,7 +111,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/711a94c7-db8d-4363-9519-e805e6332f51/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/6423aeac-9b6e-4177-b000-f125ee3aa7f9/x252"
     ],
-    trailer: "https://widgets.kinopoisk.ru/discovery/film/689/trailer/5782"
+    trailer: "https://www.youtube.com/watch?v=AFwrmkAHEk4"
   },
   {
     id: 4,
@@ -151,7 +151,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/13a69bd6-05a9-48b7-8272-7a84137302b3/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/8c6ed9e2-2745-49e2-b887-97571c42adaa/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=-_9mpd2m0DM"
   },
   {
     id: 5,
@@ -194,7 +194,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/30e31afd-d0d6-45c8-a9c4-b09b8dda2203/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/33598728-e964-4a79-b61d-8a098297d177/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=C7-7qQ61QHU"
   },
   {
     id: 6,
@@ -239,7 +239,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/69101511-d93c-465f-8d81-a7b35e64342e/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/7ecaa9cd-34b6-4251-8b7d-99d4255e6d4a/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=JR1Zm1s6hc8"
   },
   {
     id: 7,
@@ -278,7 +278,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c780aa5f-46f6-40ed-8498-799bf8d1bbec/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/5bbbb627-72bb-4ffc-9fe5-e45628703f09/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=e6b9urtUJt0"
   },
   {
     id: 8,
@@ -313,7 +313,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/92b6d9b8-4aa3-43f9-bb6c-70eda53527c3/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/d72d2e7f-54ab-42a7-8c84-5881e5f8d3c9/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=tIkqAbyXy10"
   },
   {
     id: 9,
@@ -358,7 +358,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/c7337f08-85a3-4150-bdca-ad91acb4ad81/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/f3f2e2e9-651b-45fb-b1cd-99004e07bb22/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=taQW31SVPCk"
   },
   {
     id: 10,
@@ -400,7 +400,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/7d21c1aa-ce3b-4bd1-92f1-67898a5d933d/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e08eea7b-0175-466f-8c69-786f7783bde1/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=_l7R9Rz5URw"
   },
   {
     id: 11,
@@ -435,7 +435,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f6987db2-2bed-40d7-b2eb-5c108604cc04/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/c76aff66-76e1-4e19-af19-56228119e974/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=uVyknsSPDLg"
   },
   {
     id: 12,
@@ -470,7 +470,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/f0a45ae4-0cfd-4135-9abe-2e6823646036/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c96f17dd-0723-4f3f-bfcb-da220ee05b8d/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=TODt_q-_4C4"
   },
   {
     id: 13,
@@ -505,7 +505,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0a497587-2d49-47a0-a3c1-4afae329a3dd/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/b1bb00e4-4c07-4836-83a7-6f1594c4f56c/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=qcPfI0y7wRU"
   },
   {
     id: 14,
@@ -540,7 +540,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/34e9d556-d4bd-49ef-a1f5-646875bfca5d/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/6f592ffd-4a1a-48e8-8305-c2c6d9e1f54d/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=lxAeV1-KpSA"
   },
   {
     id: 15,
@@ -575,7 +575,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f2e648a6-f002-4dff-9b16-f3a052432e8f/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/585d0c0c-ad96-4ea6-990a-b65dad43d9b1/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=bgxiTkAlQrw"
   },
   {
     id: 16,
@@ -610,7 +610,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/8678c818-a8be-45b0-ba4b-e2c50f8e638c/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8203e5d9-6c96-4c77-88d7-befa894dd44c/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=RNksw9VU2BQ"
   },
   {
     id: 17,
@@ -645,7 +645,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/7ffbdbd3-e456-44d0-a8cf-27a0fa1171f7/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/d920000d-6fda-4712-a58c-0e7327ecde9c/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=1w1wBO-hlmA"
   },
   {
     id: 18,
@@ -680,7 +680,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b0a7dc95-5b36-4f64-a190-69146952ebcd/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/79dd78c3-ad42-4209-ae9c-b0f47df8b6e3/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=n8EaedqFfuU"
   },
   {
     id: 19,
@@ -715,7 +715,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/b5ef91d0-67bf-40eb-ba3f-a165ded690eb/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f11f9770-9f21-40c7-97c0-7f88cb5bfa33/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=vBADUmfa9Q4"
   },
   {
     id: 20,
@@ -750,7 +750,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/0cfcc7c2-384f-442f-9f20-98aa1d6e2320/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/bb356655-853c-4d40-b2c6-7f42df856904/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=M-SIftG16hU"
   },
   {
     id: 21,
@@ -785,7 +785,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/9f67216d-186d-43bf-9bae-47ce6f421799/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/7fabe2b2-2274-42a3-af5e-02dd12ce27f0/x252"
     ],
-    trailer: "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы Готэма от преступности. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным напуганным горожанам под именем Джокер."
+    trailer: "https://www.youtube.com/watch?v=SrQm6G-H1iY"
   },
   {
     id: 22,
@@ -795,7 +795,7 @@ export const films = [
     time: 152,
     date: "14.07.2008",
     poster: "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0fa5bf50-d5ad-446f-a599-b26d070c8b99/300x450",
-    description: "",
+    description: "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы Готэма от преступности. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным напуганным горожанам под именем Джокер.",
     cast: [
       "Кристиан Бэйл",
       "Хит Леджер",
@@ -820,7 +820,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/524a6a02-c248-40cf-bccf-d4aae0884731/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8dcf9ccc-b84e-46ea-b510-7361723493f8/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=HF1_epZNoCg"
   },
   {
     id: 23,
@@ -855,7 +855,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/887775be-ea01-48af-94e8-07dbf5986b6e/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/0a458231-05ae-4f3f-8a1d-f997240e94d1/x252"
     ],
-    trailer: "1"
+    trailer: "https://www.youtube.com/watch?v=xBgSfhp5Fxo"
   },
   {
     id: 24,
@@ -890,7 +890,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/644865c1-44ef-47b3-8e00-1e5c2ffaf104/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/1e0ad1bd-a510-48cc-afe8-bd1b05e74bab/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=dABPCMxu074"
   },
   {
     id: 25,
@@ -925,7 +925,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/62a36326-d248-4e62-bfb4-8fedb90e3095/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/81f48392-cc14-43e1-993f-846528a2963c/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=ou8w0gQHlRE"
   },
   {
     id: 26,
@@ -960,7 +960,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/a25b7e94-c6b0-421f-af75-ea9f166ad2cf/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/749087d6-913a-4155-bac1-adeeb7506d9f/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=o-ENOYjz3WA"
   },
   {
     id: 27,
@@ -996,7 +996,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/44a0edc0-de87-4549-842c-b25b57119efe/x178"
 
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=aDvuA9xGVbE"
   },
   {
     id: 28,
@@ -1032,7 +1032,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/350c526e-d42f-49f3-be5d-2c4f9b7be1d1/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/bb5c089e-42da-4378-bc62-02e281427c19/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=4W2B-gM4S2c"
   },
   {
     id: 29,
@@ -1067,7 +1067,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/0c6e9952-db0f-4be1-a35a-bd83d8734c59/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/ecf949dc-0b81-47e6-94dc-943f034ee3ac/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=Zq55yxODJiA"
   },
   {
     id: 30,
@@ -1102,7 +1102,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/abd641d9-b1bf-4b5c-a2b7-c79413df7da3/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f4915684-b462-456b-962f-54d53fb73f79/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=F2Dr7Qb2Zf8"
   },
   {
     id: 31,
@@ -1137,7 +1137,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/3806cbf3-a559-42bc-8831-81be86f884dd/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/60096bcd-8584-46f1-b1bd-01573c98a0fc/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=HBAADCHpS5s"
   },
   {
     id: 32,
@@ -1173,7 +1173,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/59182894-b3e0-4712-9b75-7804f842ede9/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/ce905852-6b7f-4ae1-89b7-c956d65e421d/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=HwY1UqW3cgY"
   },
   {
     id: 33,
@@ -1209,7 +1209,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/a240a335-219d-4c46-826d-5a986cfe0c3a/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/84ec3e74-5132-4192-b41e-4608f1d82685/300x"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=SBxju8HuSIQ"
   },
   {
     id: 34,
@@ -1244,7 +1244,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/554aff71-339c-437e-a83d-a83725a45652/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/95a80836-a10f-4f1f-b3f9-3ab8618dd791/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=Qwx0AsI6Zq0"
   },
   {
     id: 35,
@@ -1278,7 +1278,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/3cd3ea16-6129-424a-8f0c-820b8a08d74f/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/3e05a2cb-072d-478c-a94b-53796021e67f/300x"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=rRysSgY0yUE"
   },
   {
     id: 36,
@@ -1313,7 +1313,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/95bb3ebd-2656-41df-b7cb-994def586ac9/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/a960fa55-8c8b-407c-ad06-2b68f3276e4f/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=kznAtIhoWwE"
   },
   {
     id: 37,
@@ -1348,7 +1348,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/97946e29-6bc5-4c6f-9ca3-c6a7c31e602a/300x",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/10491ac9-efef-41fd-a114-c599e3b2b081/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=Q9PxDPOo1jw"
   },
   {
     id: 38,
@@ -1381,7 +1381,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/b1d022f8-4027-49d4-aafa-171159ad324f/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/135a0fa8-574a-465a-b14d-08b72f0ed620/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=RE1vNn7tvX4"
   },
   {
     id: 39,
@@ -1416,7 +1416,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/4675a7b3-b6ea-49ad-8543-feae608d2087/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e7c6f919-c094-43f0-9dfe-2b1307218bee/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=NQ2qyEzQuQc"
   },
   {
     id: 40,
@@ -1452,7 +1452,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/ab6575d3-a48e-4d5e-85c3-534147f02090/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/1eae0444-a809-48b1-8d0e-4077638f4dba/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=FZSCXDpI2uQ"
   },
   {
     id: 41,
@@ -1487,7 +1487,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c133c9c6-17fa-4ea4-b75b-ae970ff6276d/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/272bcd75-11bd-4e80-881b-1e06c4151f84/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=tDCH7-lteAc"
   },
   {
     id: 42,
@@ -1522,7 +1522,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/dc13712b-eb46-4965-a808-e027859125e2/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f3799927-bc8d-4ede-80e5-77b470c28a5b/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=kN2IxbyBE-8"
   },
   {
     id: 43,
@@ -1557,7 +1557,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/489c36bd-b319-46dc-83e7-4088539fc449/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/59e7dec9-8fbc-4d4c-9856-dda93fe3bef0/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=I3smeRr8PGM"
   },
   {
     id: 44,
@@ -1593,7 +1593,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e121bdc1-b168-44ec-8ce2-919e835eafea/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/e5202f30-07b2-4210-9e27-36671ef16f4c/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=2ZcFb-GDHQA"
   },
   {
     id: 45,
@@ -1628,7 +1628,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/56ea90e1-19d6-41d2-95a1-a28201fb87c8/300x",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/9300c78f-29e2-4e3d-81fa-954a019bedea/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=HOsg9c6sr-Q"
   },
   {
     id: 46,
@@ -1663,7 +1663,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/dfd2e0ed-15ad-4796-b69d-e4d46f7b8521/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/bffc9464-2c05-4006-bb58-63cce5cf6202/x178"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=8OWVzd8Lq7g"
   },
   {
     id: 47,
@@ -1698,11 +1698,11 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/650a4546-4bf7-4a5e-a1c0-c89892d98382/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/cf8c5ade-bb81-4776-8231-91336de3901a/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=gp1e7eTQ9wk"
   },
   {
     id: 48,
-    title: "Оппенгеймер ",
+    title: "Оппенгеймер",
     genre: ["биография", "драма", "история", "все"],
     imdb: "8.2",
     time: 180,
@@ -1733,7 +1733,7 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/bf5a934b-84b3-4f0e-b93f-2f1ecb35e11b/x178",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/4486362/c179adb8-7068-476b-bd4c-37fb584a9624/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=PFepj-rWbFE"
   },
   {
     id: 49,
@@ -1768,11 +1768,11 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/5ee47075-a4a2-4775-a225-a45c30836f9d/300x",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/cf112829-154f-49d2-81f2-9417d3f7f8c1/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=1AnTSk9YzKk"
   },
   {
     id: 50,
-    title: "Невероятный мир глазами",
+    title: "Невероятный мир глазами Энцо",
     genre: ["драма", "мелодрама", "комедия", "спорт", "семейный", "все"],
     imdb: "8.3",
     time: 109,
@@ -1799,6 +1799,6 @@ export const films = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/c80ae580-f3c9-4b35-97d5-843bbfe29029/x252",
       "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/7dda0e90-6314-446a-b1d9-9b49ccf24c27/x252"
     ],
-    trailer: ""
+    trailer: "https://www.youtube.com/watch?v=HCGawZU0lv0"
   },
 ]
